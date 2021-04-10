@@ -1,0 +1,3 @@
+- 👋 Hi
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Javascript
